@@ -1,0 +1,23 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "code": "",
+      "title": "",
+      "type": ""
+    }
+  ],
+  "course_details": [
+    {
+      "id": 1,
+      "course_id": "101",
+      "semester": "1"
+    },
+    {
+      "id": 1,
+      "course_id": "101",
+      "semester": "1"
+    }
+  ],
+  "categories": []
+}
